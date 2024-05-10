@@ -15,12 +15,12 @@ The system simplifies responsible e-waste disposal by helping users find nearby 
 ```
 
 ## Proposed Solution / Architecture Diagram
-```
+
 The process starts with the client providing a report on the assets and data they are discarding.  The flowchart then splits into two main paths, depending on whether the equipment is working or reusable.
 If the equipment is working or reusable, it is then tested and assigned a serial number. It can then either be resold or donated to schools and charities.
 If the equipment is not working or reusable, the data is destroyed and then the equipment is separated into parts for specialist downstream recyclers. These recyclers will break down the equipment into its component parts, such as metal, glass, and plastic, which can then be recycled.
 The client may also receive a rebate for their e-waste, depending on the type of equipment and the recycling company.
-```
+
 ![E-WASTE-MANAGEMENT-PROCESS-FLOW-CHART1](https://github.com/chgeethika/SIHPS/assets/142209368/1f2ec7eb-6025-47db-b9f0-058e953186d1)
 
 
@@ -37,10 +37,10 @@ Database: PostgreSQL 15.4 or MySQL 5.7.43
 Secure user authentication and data encryption practices are crucial to protect user information.
 The platform should comply with relevant data privacy regulations (e.g., GDPR).
 ## Dependencies
-```
+
 Security Libraries
 Cloud Platform
 Mapping Services
 Data Collection
 Development Cost
-```
+
