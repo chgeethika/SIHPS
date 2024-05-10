@@ -37,9 +37,9 @@ Database: PostgreSQL 15.4 or MySQL 5.7.43
 Secure user authentication and data encryption practices are crucial to protect user information.
 The platform should comply with relevant data privacy regulations (e.g., GDPR).
 ## Dependencies
-Security Libraries.
-Cloud Platform.
-Mapping Services.
-Data Collection.
+Security Libraries,
+Cloud Platform,
+Mapping Services,
+Data Collection,
 Development Cost.
 
