@@ -10,9 +10,9 @@ Website that tells you the location of the nearest e-waste collection and recycl
 Ministry of Environment
 
 ## Idea
-```
+
 The system simplifies responsible e-waste disposal by helping users find nearby collection facilities through location services. Users can even take a picture of their e-waste , and a virtual assistant guides them on proper disposal methods, including data wiping for sensitive devices. Educational pop-ups raise awareness about the dangers of improper e-waste disposal, and a reward system incentivizes responsible behavior through points redeemable for various benefits (not shown). Additionally, facilities might have access to real-time analytics dashboards to track operations and environmental impact . This comprehensive approach promotes user convenience, education, and responsible e-waste management practices.
-```
+
 
 ## Proposed Solution / Architecture Diagram
 
@@ -37,10 +37,9 @@ Database: PostgreSQL 15.4 or MySQL 5.7.43
 Secure user authentication and data encryption practices are crucial to protect user information.
 The platform should comply with relevant data privacy regulations (e.g., GDPR).
 ## Dependencies
-
-Security Libraries
-Cloud Platform
-Mapping Services
-Data Collection
-Development Cost
+Security Libraries.
+Cloud Platform.
+Mapping Services.
+Data Collection.
+Development Cost.
 
